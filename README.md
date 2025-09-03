@@ -19,5 +19,5 @@
 1. Clone o repositório ou baixe os arquivos.  
 2. Abra o arquivo `index.html` diretamente no navegador.
 
-   ```bash
+```bash
 https://larissasantos2.github.io/custom-radio-buttons/
