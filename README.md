@@ -1,7 +1,7 @@
 # 🌐 Linguagem Favorita
 
-Este projeto apresenta uma **interface estilizada** que simula a escolha da sua **linguagem de programação favorita**, utilizando apenas **HTML e CSS**.  
-Os botões de opção (radio buttons) foram totalmente personalizados para criar um visual interativo.
+- Este projeto apresenta uma **interface estilizada** que simula a escolha da sua **linguagem de programação favorita**, utilizando apenas **HTML e CSS**.  
+- Os botões de opção (radio buttons) foram totalmente personalizados para criar um visual interativo.
 
 ## 📝 Recursos
 - Alteração de cor de fundo, borda e texto ao selecionar.  
